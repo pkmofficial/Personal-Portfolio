@@ -1,4 +1,4 @@
-![Banner]([https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png](https://github.com/pkmofficial/Personal-Portfolio/blob/master/assets/png/banner.png])
+![Banner](https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png](https://github.com/pkmofficial/Personal-Portfolio/blob/master/assets/png/banner.png)
 
 I'm a final year student currently persuing my Bachlors in Mechanical Engineering at Odisha University of Technology and Research. I'm learning how to code. I love making and designing and working on responsive and innovative web applications. I also enjoy programming in C++ to solve problems related to Data Structures and Algorithms.
 
